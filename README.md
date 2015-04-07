@@ -1,19 +1,7 @@
-This repository contains scripts and cronjobs to maintain the various
-repositories mirrored at
-[the OpenStreetMap mirror](http://github.com/openstreetmap) on GitHub.
+This repository contains scripts and cronjobs to maintain JOSM related
+repositories mirrors:
 
-If you want to get something mirrored drop an E-Mail to
-[avarab@gmail.com](mailto:avarab@gmail.com) with the following
-information:
+* https://github.com/openstreetmap/josm/
+* https://github.com/openstreetmap/josm-plugins/
 
- * The project name. This'll be used as the repository name on GitHub.
- * A URL the repository should be mirrored from. Both Git and
-   Subversion repositories are supported.
- * A remote URL for the repository, if it's different from the clone
-   URL. This is whatever you want to have in the URL bit in the
-   repository description, see e.g. the
-   [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-   repository for an example.
- * For Subversion repositories whether you'd like branches to be
-   cloned as well. More specifically we can clone the repository with
-   any method `git-svn(1)` supports.
+Those mirrors are currently operated by @simon04.
