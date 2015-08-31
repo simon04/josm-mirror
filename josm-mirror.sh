@@ -32,7 +32,7 @@ svn_external () {
 svn_external images/styles/standard http://svn.openstreetmap.org/applications/share/map-icons/classic.small
 svn_external src/org/apache/commons/ http://svn.apache.org/repos/asf/commons/proper/jcs/trunk/commons-jcs-core/src/main/java/org/apache/commons/jcs jcs
 svn_external src/org/apache/commons/ http://svn.apache.org/repos/asf/commons/proper/logging/trunk/src/main/java/org/apache/commons/logging logging
-svn_external src/org/apache/commons/compress/compressors http://svn.apache.org/repos/asf/commons/proper/compress/trunk/src/main/java/org/apache/commons/compress/compressors
+svn_external src/org/apache/commons/compress/compressors https://github.com/apache/commons-compress/trunk/src/main/java/org/apache/commons/compress/compressors
 svn_external src/org/openstreetmap/gui http://svn.openstreetmap.org/applications/viewer/jmapviewer/src/org/openstreetmap/gui
 svn_external windows/plugins/stdutils https://github.com/lordmulder/stdutils/tags/1.03
 
