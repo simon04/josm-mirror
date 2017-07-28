@@ -2,7 +2,7 @@
 
 date -Is
 
-cd /home/simon/mirrors/josm-plugins/
+cd /home/josm/mirrors/josm-plugins/
 pwd
 
 # Pull changes from Subversion

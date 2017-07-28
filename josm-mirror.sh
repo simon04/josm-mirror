@@ -3,7 +3,7 @@ set -e
 
 date -Is
 
-cd /home/simon/mirrors/josm/
+cd /home/josm/mirrors/josm/
 pwd
 
 # Pull changes from Subversion
