@@ -32,8 +32,7 @@ svn_external () {
 # To update this list, $ git svn show-externals | grep '^/' | sed 's/^./svn_external /'
 svn_external src/org/apache/commons/ https://svn.apache.org/repos/asf/commons/proper/jcs/trunk/commons-jcs-core/src/main/java/org/apache/commons/jcs jcs
 svn_external src/org/apache/commons/ https://svn.apache.org/repos/asf/commons/proper/logging/trunk/src/main/java/org/apache/commons/logging logging
-svn_external src/org/apache/commons/compress/compressors https://github.com/apache/commons-compress/trunk/src/main/java/org/apache/commons/compress/compressors
-svn_external src/org/apache/commons/compress/utils https://github.com/apache/commons-compress/trunk/src/main/java/org/apache/commons/compress/utils
+svn_external src/org/apache/commons/ https://github.com/apache/commons-compress/trunk/src/main/java/org/apache/commons/compress compress
 svn_external src/org/openstreetmap/gui https://svn.openstreetmap.org/applications/viewer/jmapviewer/src/org/openstreetmap/gui
 svn_external windows/plugins/stdutils https://github.com/lordmulder/stdutils/tags/1.10
 
