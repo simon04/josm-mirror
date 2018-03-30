@@ -34,7 +34,6 @@ svn_external src/org/apache/commons/ https://svn.apache.org/repos/asf/commons/pr
 svn_external src/org/apache/commons/ https://svn.apache.org/repos/asf/commons/proper/logging/trunk/src/main/java/org/apache/commons/logging logging
 svn_external src/org/apache/commons/ https://github.com/apache/commons-compress/trunk/src/main/java/org/apache/commons/compress compress
 svn_external src/org/openstreetmap/gui https://svn.openstreetmap.org/applications/viewer/jmapviewer/src/org/openstreetmap/gui
-svn_external windows/plugins/stdutils https://github.com/lordmulder/stdutils/tags/1.10
 
 # Commit externals changes, if any
 git config user.name "JOSM GitHub mirror"
